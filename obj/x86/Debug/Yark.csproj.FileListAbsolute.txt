@@ -1,0 +1,14 @@
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\bin\Debug\zlib.net.dll
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\obj\x86\Debug\Yark.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\obj\x86\Debug\Yark.csproj.GenerateResource.Cache
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\obj\x86\Debug\PiedPiper.AscActionByError.resources
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\obj\x86\Debug\PiedPiper.CompressForm.resources
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\obj\x86\Debug\PiedPiper.DecompressForm.resources
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\obj\x86\Debug\PiedPiper.MainForm.resources
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\bin\Debug\PiedPiper.exe
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\bin\Debug\PiedPiper.pdb
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\obj\x86\Debug\PiedPiper.Properties.Resources.resources
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\obj\x86\Debug\PiedPiper.exe
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Examples\Yark\obj\x86\Debug\PiedPiper.pdb
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Project\Yark\obj\x86\Debug\PiedPiper.exe
+C:\Users\Администратор.000\Desktop\AESC\Coursework\Project\Yark\obj\x86\Debug\PiedPiper.pdb
